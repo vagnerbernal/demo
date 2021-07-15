@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Carina Simoes\Documents\Vagner\Desenvolvimento\workspaces\ws-demo\.metadata\.plugins\org.eclipse.jdt.core
-2843677999.index
